@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02954bf4.css",
+    "main.js": "/static/js/main.f784180f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ecommerce.PNG": "/static/media/ecommerce.6222e1028c6f47618c3e.PNG",
+    "static/media/pst.png": "/static/media/pst.b73fe59a60c5cdbf4840.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/karan last resume.pdf": "/static/media/karan last resume.de7ecb6cdd3149b34184.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/crawler.webp": "/static/media/crawler.9372fe195961bbd54f93.webp",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.02954bf4.css.map": "/static/css/main.02954bf4.css.map",
+    "main.f784180f.js.map": "/static/js/main.f784180f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02954bf4.css",
+    "static/js/main.f784180f.js"
+  ]
+}
